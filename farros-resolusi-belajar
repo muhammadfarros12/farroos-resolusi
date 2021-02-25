@@ -1,8 +1,10 @@
 RENCANA BELAJAR FARROOS
 - android Studio
 * view binding
-* Depreceted find view by id
+* DataBinding
+* jecpact compose
 - firebase
 * hosting with firebase
 - google cloud
 - aws cloud
+- python
